@@ -3,7 +3,7 @@
 I’m Sara. I like making things, some meant for browsers💻, some that move around as robots 🤖, and sometimes stranger ones that show up in places even I wouldn’t expect haha.
 
 Most of the time, I’m writing software (usually with some good beats in the background).
-Every now and then, I wander off on side quests — like wiring up Jira, Zapier, Zendesk, and OpenAI so they quietly take care of repetitive work, or slipping some AI into CPQ tools to make them quicker and friendlier… like using vector embeddings for retrieval augmented generation(RAG).
+Every now and then, I wander off on side quests🫣 Like wiring up Jira, Zapier, Zendesk, and OpenAI so they quietly take care of repetitive work, or slipping some AI into CPQ tools to make them quicker and friendlier… like using vector embeddings for retrieval augmented generation(RAG).
 
 Outside of work, I follow whatever sparks my curiosity...
 That’s taken me to [XAI Face Clustering](https://github.com/karbolak/xai-face-clustering), where I explored whether facial recognition could explain itself.
